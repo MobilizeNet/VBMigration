@@ -12,3 +12,28 @@ Moving from VB6 to WinForms
 Migrating VB6 applications that integrated with Office
 
 This article provides a lot of details on how to handle project references. In particular it provides some guidance for a VB6 application that was using the EXCEL APIs  https://www.mobilize.net/blog/vb6-to-.net-missing-a-reference
+
+Upgraded Stubs
+When a library a library has some classes, properties, methods or events that aren't already supported an Upgrade Stub will be generated.
+An Upgrade Stub is a "mock" class. 
+
+``` C#
+public class MSXML2_XMLHTTP30
+{
+   public string getresponseText()
+   {
+      UpgradeHelpers.Helpers.NotUpgradedHelper.NotifyNotUpgradedElement("MSXML2.XMLHTTP30.responseText");
+   return "";
+   }
+   public void open(string bstrMethod, string bstrUrl, object varAsync, object bstrUser, object bstrPassword)
+   {
+      UpgradeHelpers.Helpers.NotUpgradedHelper.NotifyNotUpgradedElement("MSXML2.XMLHTTP30.open");
+   }
+   public void send(object varBody)
+   {
+      UpgradeHelpers.Helpers.NotUpgradedHelper.NotifyNotUpgradedElement("MSXML2.XMLHTTP30.send");
+   }
+}
+```
+
+https://www.mobilize.net/blog/vbuc-upgrade-stubs
