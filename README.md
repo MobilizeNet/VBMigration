@@ -54,6 +54,35 @@ https://www.mobilize.net/blog/dynamically-adding-activex-in-c
 A post with some information about how the VBUC handles fixed length strings and windows apis
 https://www.mobilize.net/blog/vbuc-6.3-syntactic-optimizations
 
+## Crystal Reports
+
+Information about migrating Crystal Reports
+ http://blogs.artinsoft.net/juan_fernando/archive/2011/09/13/Dealing-with-Crystal-Reports.aspx
+ 
+ Crystal Reports in Windows Azure
+ http://blogs.artinsoft.net/Mrojas/archive/2012/10/10/Crystal-Reports-in-Windows-Azure.aspx
+ 
+ Using Crystal Reports in VS
+ http://blogs.artinsoft.net/Mrojas/archive/2012/10/10/Use-Crystal-Reports-in-VS2010.aspx
+ 
+## Migrating VB6 OLE Container
+
+Quick replacement for the OLE Container Control that you had in VB6
+http://blogs.artinsoft.net/Mrojas/archive/2012/01/23/Quick-replacement-for-the-VB6-OLE-Container-Control-in-NET.aspx
+
+ 
+## VB6 Migration of Property Pages
+
+http://blogs.artinsoft.net/Mrojas/archive/2009/06/09/VB6-Migration-of-Property-Pages.aspx
+
+http://blogs.artinsoft.net/Mrojas/archive/2011/09/13/Property-Pages-in-VBNET-and-C.aspx
+
+## How to handle Internationalization once you move to .NET
+
+http://blogs.artinsoft.net/Mrojas/archive/2006/12/27/Taking-an-application-to-the-whole-world-(Series-1-of-3).aspx
+http://blogs.artinsoft.net/Mrojas/archive/2006/12/27/Starting-with-the-internationalization-bla-bla-(Part-Two).aspx
+
+
 
 ## Upgraded Stubs
 When a library a library has some classes, properties, methods or events that aren't already supported an Upgrade Stub will be generated.
