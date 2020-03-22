@@ -54,6 +54,10 @@ https://www.mobilize.net/blog/dynamically-adding-activex-in-c
 A post with some information about how the VBUC handles fixed length strings and windows apis
 https://www.mobilize.net/blog/vbuc-6.3-syntactic-optimizations
 
+Some examples on calling DLLs when moving from VB6 to .NET
+http://blogs.artinsoft.net/Mrojas/archive/2011/05/18/Interop-Structures-to-UnManaged-Dlls.aspx
+
+
 ## Crystal Reports
 
 Information about migrating Crystal Reports
@@ -77,7 +81,14 @@ http://blogs.artinsoft.net/Mrojas/archive/2009/06/09/VB6-Migration-of-Property-P
 
 http://blogs.artinsoft.net/Mrojas/archive/2011/09/13/Property-Pages-in-VBNET-and-C.aspx
 
+## Windows Service in VB6 and how to upgrade it
+
+http://blogs.artinsoft.net/Mrojas/archive/2011/06/02/VB6-Windows-Service.aspx
+
 ## How to handle Internationalization once you move to .NET
+
+A list of some things that you should consider for Internationalization of Applications:
+http://blogs.artinsoft.net/Mrojas/archive/2011/08/23/Things-to-consider-for-Internationalization-of-a-NET-Application.aspx
 
 http://blogs.artinsoft.net/Mrojas/archive/2006/12/27/Taking-an-application-to-the-whole-world-(Series-1-of-3).aspx
 http://blogs.artinsoft.net/Mrojas/archive/2006/12/27/Starting-with-the-internationalization-bla-bla-(Part-Two).aspx
