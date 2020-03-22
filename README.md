@@ -26,11 +26,21 @@ Maintain competitive advantage
 
 # Mobilize.Net Collection of Information about Migrating from VB6
 
+## Older versions of VB
+
+http://blogs.artinsoft.net/Mrojas/archive/2010/12/21/Upgrading-Applications-Written-in-Earlier-versions-of-Visual-Basic-for-example-VB4-VB5.aspx
+
 
 ## ASP Migration
 
 Issues with COM+ when upgrading ASP to COM+
 http://blogs.artinsoft.net/Mrojas/archive/2011/02/18/ASP-Migration-COM+-and-security.aspx
+
+Fixing Includes
+http://blogs.artinsoft.net/Mrojas/archive/2011/01/24/ASP-to-ASPNet-Migration-Fixing-Includes.aspx
+
+Split Config Files
+http://blogs.artinsoft.net/Mrojas/archive/2011/01/06/Split-Config-files-in-several-files.aspx
 
 ## [Dealing with UnResolved References](https://www.mobilize.net/blog/vbuc-expert-mode)
 
@@ -60,13 +70,24 @@ https://www.mobilize.net/blog/apartment-threading-those-little-details-that-make
 In VB6, you need VBControlExtender object for dynamically adding a control to the Controls collection using the Add method.
 https://www.mobilize.net/blog/dynamically-adding-activex-in-c
 
-## FixedLengthString and Windows API
+## FixedLengthString and Windows API and COM
 
 A post with some information about how the VBUC handles fixed length strings and windows apis
 https://www.mobilize.net/blog/vbuc-6.3-syntactic-optimizations
 
 Some examples on calling DLLs when moving from VB6 to .NET
 http://blogs.artinsoft.net/Mrojas/archive/2011/05/18/Interop-Structures-to-UnManaged-Dlls.aspx
+
+Binary Compatibility: In VB6 when you have an ActiveX Library it was very important to use
+the BinaryCompatibility setting to make sure that your applications did not break after a change.
+http://blogs.artinsoft.net/Mrojas/archive/2010/06/24/Interop-BinaryCompatibilty-for-VB6-Migrations.aspx
+
+Exposing C# Classes thru Interop
+http://blogs.artinsoft.net/Mrojas/archive/2010/06/23/Exposing-C-Classes-thru-Interop.aspx
+
+One of those subtle details is that the tlbexp tool (this is the tool that generates the .tlb for a .NET assembly)
+generates a prefix for enum elements.
+http://blogs.artinsoft.net/Mrojas/archive/2010/05/17/Interop-Remove-prefix-from-C-Enums-for-COM.aspx
 
 
 ## Crystal Reports
@@ -130,3 +151,16 @@ public class MSXML2_XMLHTTP30
 ```
 
 https://www.mobilize.net/blog/vbuc-upgrade-stubs
+
+# Videos
+
+Migrating VB6 apps to C# or .NET
+
+https://channel9.msdn.com/Blogs/Bytes+by+MSDN/Bytes-by-MSDN-Dr-Ivan-Sanabria-and-Tim-Huckaby-Migrating-VB6-apps-to-C-or-NET
+
+Resurrecting legacy applications
+https://channel9.msdn.com/Blogs/Bytes+by+MSDN/Bytes-by-MSDN-Roberto-Leiton-and-Tim-Huckaby-on-resurrecting-legacy-applications
+
+Moving legacy Windows desktop applications to a modern Web architecture involves a lot of issues. We discuss and give you ideas about how to handle them.
+https://www.youtube.com/watch?v=CD-uVgwiBr8
+
