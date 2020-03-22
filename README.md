@@ -169,3 +169,15 @@ https://channel9.msdn.com/Blogs/Bytes+by+MSDN/Bytes-by-MSDN-Roberto-Leiton-and-T
 Moving legacy Windows desktop applications to a modern Web architecture involves a lot of issues. We discuss and give you ideas about how to handle them.
 https://www.youtube.com/watch?v=CD-uVgwiBr8
 
+ Clients Testimonials
+ 
+ CFM Materials
+ https://www.youtube.com/watch?v=yJ398oLGBRI
+ 
+ AgWorks
+ https://www.youtube.com/watch?v=xKq1ZHhOj3w
+ 
+ Hutchins
+ https://www.youtube.com/watch?v=XSi9sMY1ud8&t=38s
+ 
+ 
