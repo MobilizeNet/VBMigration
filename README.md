@@ -157,6 +157,8 @@ https://www.mobilize.net/blog/vbuc-upgrade-stubs
 A live session using the VBUC
 https://mobilize.wistia.com/medias/xx0rrxlu98?hss_channel=fbp-200153053340106
 
+Another live session migrating Tailwind app 
+https://www.youtube.com/watch?v=s8OHXA44tTg&feature=youtu.be&t=310&utm_content=105661300&utm_medium=social&utm_source=facebook&hss_channel=fbp-200153053340106
 
 10 things to know about the VBUC
 https://www.youtube.com/watch?v=XuGqQBqzePY
