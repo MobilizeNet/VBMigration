@@ -154,6 +154,10 @@ https://www.mobilize.net/blog/vbuc-upgrade-stubs
 
 # Videos
 
+A live session using the VBUC
+https://mobilize.wistia.com/medias/xx0rrxlu98?hss_channel=fbp-200153053340106
+
+
 10 things to know about the VBUC
 https://www.youtube.com/watch?v=XuGqQBqzePY
 
