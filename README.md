@@ -154,8 +154,13 @@ https://www.mobilize.net/blog/vbuc-upgrade-stubs
 
 # Videos
 
-Migrating VB6 apps to C# or .NET
+10 things to know about the VBUC
+https://www.youtube.com/watch?v=XuGqQBqzePY
 
+Comparison of original VB6 app with migrated WebMAP version showing how they are visually and functionally equivalent.
+https://www.youtube.com/watch?v=NtfLWZhwfUk
+
+Migrating VB6 apps to C# or .NET
 https://channel9.msdn.com/Blogs/Bytes+by+MSDN/Bytes-by-MSDN-Dr-Ivan-Sanabria-and-Tim-Huckaby-Migrating-VB6-apps-to-C-or-NET
 
 Resurrecting legacy applications
