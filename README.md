@@ -38,6 +38,11 @@ Whenever you're trying to convert a VB6 or Classic ASP application to .NET with 
 
 This article provides a lot of details on how to handle project references. In particular it provides some guidance for a VB6 application that was using the EXCEL APIs  https://www.mobilize.net/blog/vb6-to-.net-missing-a-reference
 
+## Context Sensitive Help
+
+How to use Context Sensitive help files in Windows Forms
+http://blogs.artinsoft.net/Mrojas/archive/2011/05/10/Converting-from-VB6-or-Winforms-to-Context-Sensitive-Help-in-Silverlight.aspx
+
 ## Apartment Threading
 
 In VB6 public variables defined in standard (.bas) modules aren’t really “global variables”.
