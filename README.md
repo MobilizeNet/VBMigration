@@ -38,6 +38,23 @@ Whenever you're trying to convert a VB6 or Classic ASP application to .NET with 
 
 This article provides a lot of details on how to handle project references. In particular it provides some guidance for a VB6 application that was using the EXCEL APIs  https://www.mobilize.net/blog/vb6-to-.net-missing-a-reference
 
+## Apartment Threading
+
+In VB6 public variables defined in standard (.bas) modules aren’t really “global variables”.
+These public variables are scoped at the apartment level.
+https://www.mobilize.net/blog/apartment-threading-those-little-details-that-make-a-world-of-difference-between-vb6-and-.net
+
+## VBControlExtender
+
+In VB6, you need VBControlExtender object for dynamically adding a control to the Controls collection using the Add method.
+https://www.mobilize.net/blog/dynamically-adding-activex-in-c
+
+## FixedLengthString and Windows API
+
+A post with some information about how the VBUC handles fixed length strings and windows apis
+https://www.mobilize.net/blog/vbuc-6.3-syntactic-optimizations
+
+
 ## Upgraded Stubs
 When a library a library has some classes, properties, methods or events that aren't already supported an Upgrade Stub will be generated.
 An Upgrade Stub is a "mock" class. 
