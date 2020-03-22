@@ -1,5 +1,15 @@
 # VBMigration
-Mobilize.Net Collection of Information about Migrating from VB6
+
+![VBUC](https://www.mobilize.net/hs-fs/hubfs/1webSITE-Images/Images/Mobilize-VBUC.png)
+
+
+# VBUC transforms desktop apps to .NET and web
+
+## Preserve business logic and algorithms
+
+Unlike a rewrite, VBUC moves existing back-end logic to the new platform, keeping proven and debugged logic and processes intact and dramatically reducing the total defects to be resolved following the migration.
+
+# Mobilize.Net Collection of Information about Migrating from VB6
 
 [Dealing with UnResolved References](https://www.mobilize.net/blog/vbuc-expert-mode)
 
