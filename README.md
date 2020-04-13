@@ -154,6 +154,8 @@ https://www.mobilize.net/blog/vbuc-upgrade-stubs
 
 # Videos
 
+A video walkthrough of our SKS reference application [migrated all the way from VB6 to the WEB](https://www.mobilize.net/webmap-demo). Excellent video by John Brown.
+
 A live session using the VBUC
 https://mobilize.wistia.com/medias/xx0rrxlu98?hss_channel=fbp-200153053340106
 
