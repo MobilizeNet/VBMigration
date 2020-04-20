@@ -34,7 +34,8 @@ We are sure that you will like to see what the VBUC can do for you.
 
 ## Older versions of VB
 
-http://blogs.artinsoft.net/Mrojas/archive/2010/12/21/Upgrading-Applications-Written-in-Earlier-versions-of-Visual-Basic-for-example-VB4-VB5.aspx
+[Upgrading Applications Written in Earlier versions of Visual Basic for example VB4 or VB5](
+http://blogs.artinsoft.net/Mrojas/archive/2010/12/21/Upgrading-Applications-Written-in-Earlier-versions-of-Visual-Basic-for-example-VB4-VB5.aspx)
 
 ## ASP Migration
 
