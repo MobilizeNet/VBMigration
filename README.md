@@ -1,15 +1,17 @@
 # VBMigration
 
-![VBUC](https://www.mobilize.net/hs-fs/hubfs/1webSITE-Images/Images/Mobilize-VBUC.png)
+<img alt="VBUC" src="https://www.mobilize.net/hs-fs/hubfs/1webSITE-Images/Images/Mobilize-VBUC.png" height="400px">
 
+# What to see some samples ?
+
+We are sure that you will like to see what the VBUC can do for you.
+
+* You can take a look at our [Reference Sample Application called Salmon King Seafood (SKS)](https://github.com/MobilizeNet/SKS). This is a fictions company that sells seafood. We provide the VB6 code as well as the migrated code to C#, to .NET Core and to ASP.NET Core.
+* We also prepared with Microsoft an extended sample for their [Tailwind Azure Demos](https://azureappsdemomap.com/tailwind) this demo is a Point of Sale Application that is [migrated from VB6 to Desktop and then to Azure](https://github.com/microsoft/TailwindTraders-PointOfSale).  
 
 # VBUC transforms desktop apps to .NET and web
 
-## Preserve business logic and algorithms
-
 Unlike a rewrite, VBUC moves existing back-end logic to the new platform, keeping proven and debugged logic and processes intact and dramatically reducing the total defects to be resolved following the migration.
-
-## Why should I upgrade my VB 6.0 applications to .NET?
 
 There are several drivers for a VB to .NET migration:
 
@@ -19,16 +21,8 @@ Ease deployment
 Improve the maintenance of an application
 Increase developer productivity
 Consolidate your company's valuable software assets
-Avoid obsolescence of outdated software [support for VB 6 ended on April 8th, 2008 ](https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-basic-6/visual-basic-6-support-policy?redirectedfrom=MSDN).
+Avoid **obsolescence of outdated software** [support for VB 6 ended on April 8th, 2008 ](https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-basic-6/visual-basic-6-support-policy?redirectedfrom=MSDN).
 Maintain competitive advantage
-
-# What to see some samples ?
-
-We are sure that you will like to see what the VBUC can do for you.
-
-* You can take a look at our [Reference Sample Application called Salmon King Seafood (SKS)](https://github.com/MobilizeNet/SKS). This is a fictions company that sells seafood. We provide the VB6 code as well as the migrated code to C#, to .NET Core and to ASP.NET Core.
-* We also prepared with Microsoft an extended sample for their [Tailwind Azure Demos](https://azureappsdemomap.com/tailwind) this demo is a Point of Sale Application that is [migrated from VB6 to Desktop and then to Azure](https://github.com/microsoft/TailwindTraders-PointOfSale).  
-
 
 # Some more interestings links with Information about Migrating from VB6 to .NET or .NET Core.
 
