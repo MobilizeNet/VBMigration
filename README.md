@@ -7,6 +7,7 @@
 We are sure that you will like to see what the VBUC can do for you.
 
 * You can take a look at our [Reference Sample Application called Salmon King Seafood (SKS)](https://github.com/MobilizeNet/SKS). This is a fictions company that sells seafood. We provide the VB6 code as well as the migrated code to C#, to .NET Core and to ASP.NET Core.
+
 * We also prepared with Microsoft an extended sample for their [Tailwind Azure Demos](https://azureappsdemomap.com/tailwind) this demo is a Point of Sale Application that is [migrated from VB6 to Desktop and then to Azure](https://github.com/microsoft/TailwindTraders-PointOfSale).  
 
 # VBUC transforms desktop apps to .NET and web
